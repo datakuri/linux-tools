@@ -1,0 +1,4 @@
+line 1 contains the word starting with db.table_name1
+line 2 contains the word starting with db.table_name2
+line 3 contains the word starting with db.table_name3
+line 4 contains the word starting with db.table_name4
